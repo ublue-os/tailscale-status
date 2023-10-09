@@ -1,12 +1,110 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="64" height="64" rx="14" fill="#232325"/>
-<circle cx="16.25" cy="32" r="5.25" fill="#FAF8F6"/>
-<circle cx="32" cy="32" r="5.25" fill="#FAF8F6"/>
-<circle opacity="0.4" cx="16.25" cy="47.75" r="5.25" fill="#FAF8F6"/>
-<circle opacity="0.4" cx="47.75" cy="47.75" r="5.25" fill="#FAF8F6"/>
-<circle cx="32" cy="47.75" r="5.25" fill="#FAF8F6"/>
-<circle cx="47.75" cy="32" r="5.25" fill="#FAF8F6"/>
-<circle opacity="0.4" cx="16.25" cy="16.25" r="5.25" fill="#FAF8F6"/>
-<circle opacity="0.4" cx="32" cy="16.25" r="5.25" fill="#FAF8F6"/>
-<circle opacity="0.4" cx="47.75" cy="16.25" r="5.25" fill="#FAF8F6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="icon-up.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="18.359375"
+     inkscape:cx="32.027234"
+     inkscape:cy="32"
+     inkscape:window-width="1509"
+     inkscape:window-height="1288"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <rect
+     width="64"
+     height="64"
+     rx="14"
+     fill="#232325"
+     id="rect1"
+     style="fill:#faf8f6;fill-opacity:1" />
+  <circle
+     cx="16.25"
+     cy="32"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle1"
+     style="fill:#000000;fill-opacity:1" />
+  <circle
+     cx="32"
+     cy="32"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle2"
+     style="fill:#000000;fill-opacity:1" />
+  <circle
+     opacity="0.4"
+     cx="16.25"
+     cy="47.75"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle3"
+     style="fill:#232325;fill-opacity:1" />
+  <circle
+     opacity="0.4"
+     cx="47.75"
+     cy="47.75"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle4"
+     style="fill:#232325;fill-opacity:1" />
+  <circle
+     cx="32"
+     cy="47.75"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle5"
+     style="fill:#000000;fill-opacity:1" />
+  <circle
+     cx="47.75"
+     cy="32"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle6"
+     style="fill:#000000;fill-opacity:1" />
+  <circle
+     opacity="0.4"
+     cx="16.25"
+     cy="16.25"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle7"
+     style="fill:#232325;fill-opacity:1" />
+  <circle
+     opacity="0.4"
+     cx="32"
+     cy="16.25"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle8"
+     style="fill:#232325;fill-opacity:1" />
+  <circle
+     opacity="0.4"
+     cx="47.75"
+     cy="16.25"
+     r="5.25"
+     fill="#FAF8F6"
+     id="circle9"
+     style="fill:#232325;fill-opacity:1" />
 </svg>
