@@ -11,6 +11,8 @@ URL:         https://github.com/ublue-os/gnome-shell-extension-tailscale-status
 Source0:     %{url}/archive/refs/heads/main.tar.gz
 BuildArch:   noarch
 
+BuildRequires: glib2
+
 Requires:    gnome-shell >= 3.12
 %description
 An unofficial Gnome Extension to manage and check the status of tailscale-cli. This extension is in no way affiliated with Tailscale Inc.
@@ -24,6 +26,7 @@ An unofficial Gnome Extension to manage and check the status of tailscale-cli. T
 %install
 mkdir -p %{buildroot}%{_datadir}/gnome-shell/extensions/%{uuid}
 cp -r %{uuid}/* %{buildroot}%{_datadir}/gnome-shell/extensions/%{uuid}/
+glib-compile-schemas %{buildroot}%{_datadir}/gnome-shell/extensions/%{uuid}/schemas/
 
 %files
 %doc README.md
